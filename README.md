@@ -13,25 +13,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h1 align="center">Hi 👋, I'm [Your Name]</h1>
+--><h1 align="center">Hi 👋, I'm [Dinesh.S]</h1>
 <h3 align="center">A tech enthusiast who loves exploring technology, nature, and discovering new things 🌟</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20views&color=0e75b6&style=flat" alt="[your-username]" /> 
+  <img src="https://komarev.com/ghpvc/?username=[Dineshs65663]&label=Profile%20views&color=0e75b6&style=flat" alt="[Dineshs65663]" /> 
 </p>
 
 - 🔭 I’m currently working on **MERN Stack**
 - 🌱 I’m currently learning **Cloud Services**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://venkateeshh.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio]([https://venkateeshh.vercel.app/](https://soft-rolypoly-494f2b.netlify.app/))
 - 💬 Ask me about **React, MongoDB, Java**
-- 📫 How to reach me **rkamathvenkatesh@gmail.com**
+- 📫 How to reach me **dineshs65663@gmail.com**
 - ⚡ Fun fact: **I’m always curious to learn and explore new ideas 🌍**
 
 ---
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkateeshh)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/venkateeshhh)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkateeshh](https://www.linkedin.com/in/dinesh-s-434359202?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bg7ltzjeaQzeZQHKtv46eiQ%3D%3D))  
+[![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/venkateeshhh](https://www.instagram.com/?variant=following))
 
 ---
 
@@ -50,14 +50,14 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=[your-username]&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=[Dineshs65663]&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=[Dineshs65663]&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=[Dineshs65663]&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ### 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=[your-username]&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=[Dineshs65663]&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
