@@ -69,26 +69,6 @@ I love discovering new technologies and building cool things. 🚀 Let's build s
 
 ---
 
-### 📊 GitHub Activity:
-[![Dinesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dineshs65663&bg_color=0d1117&color=f9f9f9&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🏆 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dineshs65663&show_icons=true&theme=radical" alt="Dinesh's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshs65663&theme=radical" alt="Dinesh's GitHub streak" />
-</p>
-
----
-
-### ✨ Top Repositories:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshs65663&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
----
-
 <h3 align="left">GitHub Stats:</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=dineshs65663&show_icons=true&theme=radical" alt="dineshs65663 stats" />
