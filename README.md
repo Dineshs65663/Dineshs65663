@@ -1,65 +1,51 @@
-<h1 align="center">Hi 👋, I'm DINESH.S</h1>
-<h3 align="center">A passionate Python Full Stack Developer and Data Science enthusiast</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=dineshs65663&label=Profile%20views&color=0e75b6&style=flat" alt="dineshs65663" /> 
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dineshs65663&theme=darkhub" alt="dineshs65663" />
-  </a>
-</p>
-
-- 🔭 I’m currently working on **Python, Flask, and React.js**
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, and Cloud Computing**
-- 👨‍💻 All of my projects are available at [https://soft-rolypoly-494f2b.netlify.app/](https://soft-rolypoly-494f2b.netlify.app/)
-- 💬 Ask me about **Python, Django, Machine Learning, and Full Stack Development**
-- 📫 How to reach me **dineshs65663@gmail.com**
-- ⚡ Fun fact: I’m a lifelong learner who loves discovering new technologies! 🚀
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/dinesh-s-434359202" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/i_am_dinesh__kumar/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="instagram" height="30" width="40" />
-  </a>
-</p>
+### 👨‍💻 **My Portfolio**:
+🌐 [Visit my portfolio](https://soft-rolypoly-494f2b.netlify.app/) to check out my latest projects and achievements.
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
-  </a>
-</p>
+### 💬 **Ask me about**:
+- Python (Django, Flask)
+- Data Science and Machine Learning
+- Backend Development
+- Cloud Deployment Strategies
+
+---
+
+### 📫 **How to reach me**:
+- 📧 Email: [dineshs65663@gmail.com](mailto:dineshs65663@gmail.com)
+- 🌐 LinkedIn: [Dinesh S](https://www.linkedin.com/in/dinesh-s-434359202)
+- 📸 Instagram: [@i_am_dinesh__kumar](https://www.instagram.com/i_am_dinesh__kumar/)
+
+---
+
+### ⚡ **Fun Fact**:
+I love discovering new technologies and building cool things. 🚀 Let's build something amazing together!
+
+---
+
+### 🛠️ **Tech Stack**:
+#### Programming Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Frameworks & Libraries:
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+#### Data Science Tools:
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+#### Cloud & DevOps:
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ---
 
