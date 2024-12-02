@@ -82,8 +82,7 @@ I love discovering new technologies and building cool things. 🚀 Let's build s
 
 <h3 align="left">Contribution Graph:</h3>
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshs65663&bg_color=0d1117&color=f9f9f9&line=00ffff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  ![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=Dineshs65663)
   </a>
 </p>
 
