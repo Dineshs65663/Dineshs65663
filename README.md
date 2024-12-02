@@ -1,5 +1,5 @@
 # Hi 👋, I'm Dinesh S
-🌟 Data Scientist | Python Full Stack Developer | Lifelong Learner  
+🌟 Data Scientist | Python Full Stack Developer   
 
 I am a tech enthusiast who loves exploring technology, nature, and discovering new things 🌍. My journey involves solving problems with data, building scalable web applications, and contributing to open-source projects.
 
