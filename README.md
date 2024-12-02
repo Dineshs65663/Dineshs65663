@@ -8,7 +8,7 @@
 ---
 
 - 🔭 **Currently Building:** Full-stack solutions with the **MERN Stack**  
-- 🌱 **Currently Learning:** Advanced **Cloud Services**  
+- 🌱 **Currently Learning:** Advanced **Data science**  
 - 👨‍💻 **My Work Portfolio:** [Visit Here](https://soft-rolypoly-494f2b.netlify.app/)  
 - 💬 **Ask Me About:** **React, MongoDB, Java**  
 - 📫 **Reach Me At:** [dineshs65663@gmail.com](mailto:dineshs65663@gmail.com)  
