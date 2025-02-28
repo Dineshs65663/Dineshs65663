@@ -49,10 +49,6 @@
 
 ---
 
-### 📈 Contribution Graph:
-
-
----
 
 ### 🏆 GitHub Trophies:
 <p align="center">
