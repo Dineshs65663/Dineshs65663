@@ -52,11 +52,7 @@
 ---
 
 ### 📈 Contribution Graph:
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshs65663&bg_color=1a1b27&color=f9f9f9&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-  </a>
-</p>
+
 
 ---
 
