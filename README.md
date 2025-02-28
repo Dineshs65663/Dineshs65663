@@ -43,7 +43,6 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dineshs65663&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshs65663&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
   <br />
