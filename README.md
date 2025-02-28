@@ -44,8 +44,6 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshs65663&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshs65663&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
