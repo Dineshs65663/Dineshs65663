@@ -9,7 +9,7 @@
 
 - 🔭 **Currently Building:** Full-stack solutions with the **MERN Stack**  
 - 🌱 **Currently Learning:** Advanced **Data science**  
-- 👨‍💻 **My Work Portfolio:** [Visit Here]((https://mellifluous-taiyaki-62bbf0.netlify.app/](https://mellifluous-taiyaki-62bbf0.netlify.app/))  
+- 👨‍💻 **My Work Portfolio:** [Visit Here](https://mellifluous-taiyaki-62bbf0.netlify.app/)  
 - 💬 **Ask Me About:** **React, MongoDB, Java**  
 - 📫 **Reach Me At:** [dineshs65663@gmail.com](mailto:dineshs65663@gmail.com)  
 - ⚡ **Fun Fact:** I thrive on curiosity and love exploring new ideas 🌍  
@@ -74,7 +74,7 @@
 
 ## 🌐 My Website
 Loading .....
-[https://soft-rolypoly-494f2b.netlify.app/](https://mellifluous-taiyaki-62bbf0.netlify.app/](https://mellifluous-taiyaki-62bbf0.netlify.app/)
+https://mellifluous-taiyaki-62bbf0.netlify.app/
 
 ---
 
