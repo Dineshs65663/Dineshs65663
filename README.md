@@ -26,28 +26,7 @@
   </a>
 </p>
 
-<!-- Banner Section -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5ca76775-ce1a-4458-a823-d1077aa31268" alt="standard"/>
-</p>
 
-
-# 👋 Hi, I'm Balram!
-
-👨‍💻 Cybersecurity student | 🐍 Python enthusiast  
-🔐 Breaking barriers, not systems | 🚀 Building exciting tools.  
-🎯 Currently crafting smarter and faster.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Balram-1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/Balram-1?style=for-the-badge&label=Stars" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/Balram-1?style=for-the-badge&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Joined%20GitHub-2022-blueviolet?style=for-the-badge" alt="Joined GitHub" />
-</p>
-
----
 
 ## 🛠 Technologies I Use
 
@@ -67,10 +46,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Balram-1&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Balram's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dineshs65663&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Dinesh"S GitHub Stats" />
  </p>
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balram-1&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshs65663&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" />
 </p>
 
 ---
@@ -78,9 +57,9 @@
 ## 🟩 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balram-1/Dineshs65663/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Balram-1/Dineshs65663/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Balram-1/Dineshs65663/output/github-contribution-grid-snake.svg" />
 </picture>
 
 
@@ -92,23 +71,9 @@
 
 ---
 
-## 🛒 My Sellauth Store
-
-- [UltimateTools Sellauth](https://ultimatetools.mysellauth.com/)
-
----
 
 ## 🌐 My Website
-
-[flexamcfun my site](https://www.flexamc.fun/)
-[loopdev](https://loopdev.xyz/)
-
----
-
-## 📞 Contact
-
-- Discord: **@balrampreet1** / **@balramog**
-- Gmail: **balrampreet116699@gmail.com**
+Loading .....
 
 ---
 
