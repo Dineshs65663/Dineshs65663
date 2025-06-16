@@ -26,8 +26,6 @@
   </a>
 </p>
 
-
-
 ## 🛠 Technologies I Use
 
 <p align="center">
@@ -46,7 +44,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dineshs65663&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Dinesh"S GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dineshs65663&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Dinesh's GitHub Stats" />
  </p>
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshs65663&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" />
@@ -62,15 +60,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Balram-1/Dineshs65663/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
-
 <p align="center">
-  <!-- Custom Contribution Bar (15 squares, latest on the right) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dineshs65663&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
-
 
 ## 🌐 My Website
 Loading .....
