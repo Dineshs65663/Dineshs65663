@@ -26,6 +26,8 @@
   </a>
 </p>
 
+---
+
 ## 🛠 Technologies I Use
 
 <p align="center">
@@ -45,8 +47,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dineshs65663&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Dinesh's GitHub Stats" />
- </p>
- <p align="center">
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshs65663&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" />
 </p>
 
@@ -54,11 +57,9 @@
 
 ## 🟩 Contribution Activity
 
-<picture>
- ![snake gif](https://github.com/Dineshs65663/Dineshs65663/blob/output/github-snake-dark.svg)
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dineshs65663/Dineshs65663/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Dineshs65663/Dineshs65663/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dineshs65663/Dineshs65663/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dineshs65663&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
@@ -67,8 +68,12 @@
 ---
 
 ## 🌐 My Website
-Loading .....
-https://mellifluous-taiyaki-62bbf0.netlify.app/
+
+<p align="center">
+  <a href="https://mellifluous-taiyaki-62bbf0.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=google-chrome" alt="Visit Portfolio" />
+  </a>
+</p>
 
 ---
 
