@@ -45,6 +45,13 @@
 </p>
 
 ---
+### 👨‍💻 Skills & Technologies
+
+- 🐍 **Python** (Django, Data Science)
+- 🧮 **Jupyter Notebooks** (Machine Learning, EDA)
+- 🌐 **HTML, CSS, JavaScript** (for web projects)
+
+---
 
 ### 📈 GitHub Stats
 
