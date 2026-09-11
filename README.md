@@ -1,11 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=160&section=header" />
-
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
-
-<h1 style="font-family:'Space+Grotesk',sans-serif;font-size:72px;font-weight:700;letter-spacing:1px;color:#ffffff;margin:0;padding:0">Dinesh S</h1>
-
-<p style="font-size:18px;color:#8ab4f8;margin:8px 0 0">Full-Stack Developer &nbsp;/&nbsp; Bot Engineer &nbsp;/&nbsp; Technical Support</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=240&section=header&text=Dinesh%20S&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=42&fontAlign=50&fontFamily=Space+Grotesk&desc=Full-Stack%20Developer%20%2F%20Bot%20Engineer%20%2F%20Technical%20Support&descAlignY=64&descSize=18&descColor=8ab4f8" />
 </div>
 
 <br/>
@@ -138,11 +132,18 @@ Responsive personal portfolio built with React and Tailwind CSS, deployed on Net
 
 ---
 
-### Activity Graph
+---
+
+### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dineshs65663&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=1f3a5f&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dineshs65663&bg_color=0d1117&color=79c0ff&line=2ea043&point=ffffff&area=true&area_color=1f3d2b&hide_border=true&radius=12&custom_title=Dinesh%20S%20%7C%20GitHub%20Activity" width="100%"/>
+
 </div>
+
+---
+
 
 ---
 
