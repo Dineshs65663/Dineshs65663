@@ -1,5 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=240&section=header&text=Dinesh%20S&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=42&fontAlign=50&desc=Full-Stack%20Developer%20%2F%20Bot%20Engineer%20%2F%20Technical%20Support&descAlignY=62&descSize=18&descColor=8ab4f8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=160&section=header" />
+
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
+
+<h1 style="font-family:'Space+Grotesk',sans-serif;font-size:72px;font-weight:700;letter-spacing:1px;color:#ffffff;margin:0;padding:0">Dinesh S</h1>
+
+<p style="font-size:18px;color:#8ab4f8;margin:8px 0 0">Full-Stack Developer &nbsp;/&nbsp; Bot Engineer &nbsp;/&nbsp; Technical Support</p>
 </div>
 
 <br/>
@@ -33,35 +39,26 @@ Full-Stack Developer and Automation Builder with hands-on experience in building
 
 ### Stack
 
-**Languages**
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css,mysql" />
-</p>
-
-**Frontend**
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-</p>
-
-**Backend & Automation**
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
-</p>
-
-**Databases**
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
-</p>
-
-**Tools & Platforms**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,jupyter" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <b>Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,js,java" /><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,mysql" />
+    </td>
+    <td valign="top" width="33%">
+      <b>Frontend & Backend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,tailwind" /><br/>
+      <img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
+    </td>
+    <td valign="top" width="33%">
+      <b>DB & Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" /><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /><br/>
+      <img src="https://skillicons.dev/icons?i=vercel,netlify,jupyter" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -98,6 +95,26 @@ Responsive personal portfolio built with React and Tailwind CSS, deployed on Net
 
 ---
 
+### Studying
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker" />
+</p>
+
+---
+
+### Connect with me
+
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dinesh-s-434359202)&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Dineshs65663)&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:dineshs65663@gmail.com)&nbsp;
+
+</div>
+
+---
+
 ### GitHub Stats
 
 <div align="center">
@@ -124,7 +141,7 @@ Responsive personal portfolio built with React and Tailwind CSS, deployed on Net
 ### Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dineshs65663&theme=github-compact&hide_border=true&area=true&radius=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dineshs65663&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=1f3a5f&hide_border=true" />
 </div>
 
 ---
