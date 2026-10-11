@@ -21,18 +21,38 @@
 
 <br/>
 
-```python
-class Dinesh:
-    def __init__(self):
-        self.role      = "Full-Stack Developer & Bot Engineer"
-        self.location  = "Bengaluru, India  (UTC +5:30)"
-        self.stack     = ["Python", "Django", "React", "MySQL"]
-        self.learning  = ["Data Science", "DRF", "Docker", "Cloud"]
-        self.focus     = "Automation that does what bots aren't supposed to do"
+<!-- ░░░ HERO: ASCII PORTRAIT + TERMINAL ░░░ -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="42%" valign="middle" align="center">
 
-    def status(self):
-        return "🟢 Available for opportunities"
+<img src="./ascii-hero.svg" alt="ASCII portrait of Dinesh S" width="100%"/>
+
+</td>
+<td width="58%" valign="middle">
+
+```console
+dinesh@dev:~$ whoami
 ```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=2EE6A6&width=460&height=22&lines=Full-Stack+Developer+%26+Bot+Engineer" alt="whoami"/>
+
+```console
+dinesh@dev:~$ cat profile.json
+{
+  "role"     : "Full-Stack Developer & Bot Engineer",
+  "location" : "Bengaluru, India  (UTC +5:30)",
+  "stack"    : ["Python", "Django", "React", "MySQL"],
+  "learning" : ["Data Science", "DRF", "Docker", "Cloud"],
+  "focus"    : "Automation that bots aren't supposed to do",
+  "status"   : "🟢 Available for opportunities"
+}
+dinesh@dev:~$ ▮
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -146,24 +166,14 @@ Encodes/decodes `.py` files with a custom XOR key layered over zlib compression.
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dineshs65663&show_icons=true&count_private=true&hide=issues&theme=tokyonight&border_radius=10&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dineshs65663&show_icons=true&count_private=true&hide=issues&theme=tokyonight&border_radius=10&hide_border=true&cache_seconds=86400" height="170"/>
 <img src="https://streak-stats.demolab.com?user=Dineshs65663&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshs65663&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshs65663&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" height="150"/>
 
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Dineshs65663&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dineshs65663&bg_color=1a1b27&color=8ab4f8&line=2ea043&point=ffffff&area=true&area_color=1f3d2b&hide_border=true&radius=12&custom_title=Dinesh%20S%20·%20Contribution%20Activity" width="100%"/>
 
 </div>
 
